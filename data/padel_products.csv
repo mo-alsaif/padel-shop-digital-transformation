@@ -1,0 +1,23 @@
+Name,Internal Reference,Sales Price,Cost,Product Type,Track Inventory
+Bullpadel Vertex 04 Racket,RKT-001,1199,750,Goods,True
+Adidas Metalbone 3.3 Racket,RKT-002,1299,820,Goods,True
+Head Delta Pro Racket,RKT-003,949,590,Goods,True
+Nox AT10 Genius Racket,RKT-004,1099,690,Goods,True
+Babolat Air Viper Racket,RKT-005,999,620,Goods,True
+Starter Padel Racket,RKT-006,299,160,Goods,True
+Padel Balls (3-pack),BAL-001,45,22,Goods,True
+Padel Balls Pro (3-pack),BAL-002,59,30,Goods,True
+Padel Balls Box (24 cans),BAL-003,899,480,Goods,True
+Overgrip (3-pack),ACC-001,35,12,Goods,True
+Racket Protector Tape,ACC-002,29,9,Goods,True
+Padel Racket Bag,ACC-003,349,190,Goods,True
+Padel Backpack,ACC-004,229,120,Goods,True
+Wristband (pair),ACC-005,25,8,Goods,True
+Padel Shoes Men,SHO-001,449,260,Goods,True
+Padel Shoes Women,SHO-002,429,250,Goods,True
+Dri-Fit Padel T-Shirt,APP-001,119,45,Goods,True
+Padel Shorts,APP-002,99,40,Goods,True
+Padel Cap,APP-003,69,22,Goods,True
+Water Bottle 1L,APP-004,49,18,Goods,True
+Racket Re-grip Service,SRV-001,40,10,Service,False
+Private Coaching Session (1 hr),SRV-002,250,120,Service,False
